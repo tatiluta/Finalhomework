@@ -5,7 +5,7 @@ import axios from 'axios';
 import Detail from './Detail';
 
 const URL = 'https://newsapi.org/v2';
-const APIKEY = 'bb5c48274098477195a89676c914c64b';
+const APIKEY = 'APIKEY';
 
 function App() {
 
